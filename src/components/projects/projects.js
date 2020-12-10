@@ -14,12 +14,12 @@ function Nav() {
                         <h4 className="card-title">GRAB COINS</h4>
                         <p className="card-text p-y-1">AGame designed completely through HTML,CSS,javascript. In this game the user has to finish 5 levels and have to collect the coins in each level within 3 lives. There as multiple obstacles that user has to face and reach to end.</p>
                         <div className="twoButtons">
-                          <a href="https://brittanymorrisdesign.github.io/Homework-6/" className="btn btn-outline-primary btn-sm"
-                            id="viewPage" role="button">View Page</a>
-                          <a href="https://github.com/brittanymorrisdesign/Homework-6" className="btn btn-primary btn-sm" id="githubRepo"
+                          <a href="http://grabcoins.herokuapp.com/" className="btn btn-outline-primary btn-sm"
+                            id="viewPage" role="button">Play Game</a>
+                          <a href="https://github.com/priyamishra2903/grabthecoins" className="btn btn-primary btn-sm" id="githubRepo"
                             role="button"><i className="fab fa-github"></i> Github Repo</a>
                         </div>
-                        <div className="builtWith">HTML, CSS, Bootstrap, Javascript, jQuery, Server-side APIs</div>
+                      
                       </div>
                     </div>
                   </div>
@@ -37,7 +37,7 @@ function Nav() {
                           <a href="https://github.com/priyamishra2903/crud-jwt-sqlcon" className="btn btn-primary btn-sm"
                             id="githubRepo" role="button"><i className="fab fa-github"></i> Github Repo</a>
                         </div>
-                        <div className="builtWith">Node.js, Javascript, npm modules</div>
+                       
                       </div>
                     </div>
                   </div>
@@ -55,7 +55,7 @@ function Nav() {
                           <a href="https://github.com/priyamishra2903/crud-jwt-sqlcon" className="btn btn-primary btn-sm" id="githubRepo"
                             role="button"><i className="fab fa-github githubIcon"></i> Github Repo</a>
                         </div>
-                        <div className="builtWith">Node.js, JavaScript, Handlebars.js, mySQL</div>
+                  
                       </div>
                     </div>
                   </div>
