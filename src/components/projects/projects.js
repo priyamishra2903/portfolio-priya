@@ -50,8 +50,8 @@ function Nav() {
                         <p className="card-text p-y-1">A full-stack application that allows users to sign up, log in, search for
                           recipes, and save their favorite recipes to the application.</p>
                         <div className="twoButtons">
-                          <a href="https://recipe-track.herokuapp.com/" className="btn btn-outline-primary btn-sm" id="viewPage"
-                            role="button">View Page</a>
+                          <a href="https://youtu.be/MXgsOZTp0eU" className="btn btn-outline-primary btn-sm" id="viewPage"
+                            role="button">View Demo</a>
                           <a href="https://github.com/priyamishra2903/crud-jwt-sqlcon" className="btn btn-primary btn-sm" id="githubRepo"
                             role="button"><i className="fab fa-github githubIcon"></i> Github Repo</a>
                         </div>
