@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/portfolio-priya/static/css/main.f5e82065.chunk.css",
+    "main.js": "/portfolio-priya/static/js/main.d073abbf.chunk.js",
+    "main.js.map": "/portfolio-priya/static/js/main.d073abbf.chunk.js.map",
+    "runtime-main.js": "/portfolio-priya/static/js/runtime-main.346dc89e.js",
+    "runtime-main.js.map": "/portfolio-priya/static/js/runtime-main.346dc89e.js.map",
+    "static/js/2.b476f6cf.chunk.js": "/portfolio-priya/static/js/2.b476f6cf.chunk.js",
+    "static/js/2.b476f6cf.chunk.js.map": "/portfolio-priya/static/js/2.b476f6cf.chunk.js.map",
+    "index.html": "/portfolio-priya/index.html",
+    "static/css/main.f5e82065.chunk.css.map": "/portfolio-priya/static/css/main.f5e82065.chunk.css.map",
+    "static/js/2.b476f6cf.chunk.js.LICENSE.txt": "/portfolio-priya/static/js/2.b476f6cf.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/portfolio-priya/static/media/bg-masthead.702b1e7d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.346dc89e.js",
+    "static/js/2.b476f6cf.chunk.js",
+    "static/css/main.f5e82065.chunk.css",
+    "static/js/main.d073abbf.chunk.js"
+  ]
+}
